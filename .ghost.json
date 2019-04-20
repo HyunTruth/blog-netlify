@@ -1,10 +1,10 @@
 {
   "development": {
     "apiUrl": "https://hyuntruth.netlify.com",
-    "contentApiKey": "c69c9b04-66b9-4bca-9ab3-ab3b776ee5ee"
+    "contentApiKey": "9387A1DD95D0450D8975196366"
   },
   "production": {
     "apiUrl": "https://hyuntruth.netlify.com",
-    "contentApiKey": "c69c9b04-66b9-4bca-9ab3-ab3b776ee5ee"
+    "contentApiKey": "9387A1DD95D0450D8975196366"
   }
 }
